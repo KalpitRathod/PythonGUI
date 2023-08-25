@@ -12,14 +12,9 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/KalpitRathod/PythonGUI.git
-git push -u origin main
-
-…or push an existing repository from the command line
-git remote add origin https://github.com/KalpitRathod/PythonGUI.git
-git branch -M main
-git push -u origin main
-
-..how i used
+#git remote -v //to verify remote
+#git branch //to check brnch
+#git branch -M main //to rename branch
 git add .
 git commit -m "First Commit"
-git push -u origin main
+git push -u origin main //-u to set up stream
