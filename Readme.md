@@ -18,3 +18,8 @@ git push -u origin main
 git remote add origin https://github.com/KalpitRathod/PythonGUI.git
 git branch -M main
 git push -u origin main
+
+..how i used
+git add .
+git commit "First Commit"
+git push -u origin main
