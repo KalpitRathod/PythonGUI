@@ -21,5 +21,5 @@ git push -u origin main
 
 ..how i used
 git add .
-git commit "First Commit"
+git commit -m "First Commit"
 git push -u origin main
